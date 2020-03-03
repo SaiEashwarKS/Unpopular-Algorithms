@@ -1,0 +1,8 @@
+->list folder contains the client, implementation and header files for implementing linked lists by the conventional method using C
+->list_3_arrays contains the client object file, implementation and header files for implementing linked lists using three arrays
+  ->1 array for the node data ("key")
+  ->1 array for containing the index of the node present to the next of the currrent node. next[i] => index of the node succeeding the node at key[i]
+  ->1 array to hold the index of the next available free space in key array
+->list_2_arrays contains the client, implementation and header files for implementing linked lists by using 2 arrays
+  ->1 array for the node data ("key")
+  ->1 array for containing the index of the node present to the next of the currrent node. next[i] => index of the node succeeding the node at key[i]
