@@ -1,4 +1,4 @@
-The problem statement is present in "prblm_stmt.pdf"
+Refer the problem statement present in "prblm_stmt.pdf" first.
 
 
 ->The allocation policy implemented by me is Worst Fit.
